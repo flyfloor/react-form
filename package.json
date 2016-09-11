@@ -1,0 +1,23 @@
+{
+  "name": "react-pure-form",
+  "version": "0.0.1",
+  "description": "react pure form",
+  "main": "entre.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerryshew/react-form.git"
+  },
+  "keywords": [
+    "react",
+    "form"
+  ],
+  "author": "jerryshew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerryshew/react-form/issues"
+  },
+  "homepage": "https://github.com/jerryshew/react-form#readme"
+}
